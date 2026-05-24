@@ -1,0 +1,16 @@
+#Build artifacts
+*.obj
+*.exe
+*.o
+*.out
+*.a
+*.lib
+
+# IDE/editor files
+.vscode/
+.vs/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
